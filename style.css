@@ -6,6 +6,7 @@
 }
 
 main {
+    width: 900px;
     margin: 0 auto;
     font-family: Georgia, Times, serif;
     font-size: 20px;  
@@ -15,13 +16,15 @@ main {
     background-color: black;
     color: white;
     border-bottom: .4em solid #4d2d06;
-    padding: 2% 2.5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 div.secondary-box {
     background-color: white;
     border-bottom: .4em solid #4d2d06;
-    padding: 2% 2.5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 div.inside-box {
@@ -29,6 +32,7 @@ div.inside-box {
     color: black;
     font-size: 1em;
 }    
+
 h3 {
     margin-top: 1em;
 }
